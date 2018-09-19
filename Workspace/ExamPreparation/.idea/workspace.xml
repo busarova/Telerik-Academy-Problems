@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724782fb-f3d0-4552-8e69-3b0a7bf6e118" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/IfElse/BiggestOfFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/BiggestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/BonusScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/CartesianCoordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/CheckForPlayCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/DigitAsWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Flasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/IntDoubleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/KaspichanNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/LeastMajorityMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/MultiplicationSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/SortThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/LongesSequenceOfEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/LongestIncreasingSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaxSumOfKElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MaxSumOfSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MostFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/SubsetOfSumSRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/AlphaNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/Energy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exam/HexNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/AllocateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/AppearanceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/BiggestPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/BinToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/CalculateAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/CalculateFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/CatalanNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/DecimalToXex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/GetLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/GoodNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/HexToBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/HexToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Hops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/LargestThanNeighbours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Legs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/MatrixOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/MazeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/MinMaxSumAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/NotDivisableNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/NumbersFrom1toN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/OddorEvenProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/PaperCutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/PrintDeck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Pyramids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Ranks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/SignalfromSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/TrailingZerosInFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Tribonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/TribonacciTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mockExam/CrookedDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mockExam/PrimeTriangle.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="GirlsGoneWild.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrays/GirlsGoneWild.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-95">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HorseMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrays/HorseMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxSumOfKElements.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/streamAPI/MaxSumOfKElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllocateArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/streamAPI/AllocateArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/loops/Tribonacci.java" />
+        <option value="$PROJECT_DIR$/src/arrays/Passwords.java" />
+        <option value="$PROJECT_DIR$/src/arrays/HorseMatrix.java" />
+        <option value="$PROJECT_DIR$/src/streamAPI/AllocateArray.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="580" />
+    <option name="width" value="670" />
+    <option name="height" value="558" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExamPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPreparation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="streamAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/StoreApp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HorseMatrix">
+    <configuration name="HorseMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.HorseMatrix" />
+      <module name="ExamPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Tribonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.Tribonacci" />
+      <module name="ExamPreparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Tribonacci" />
+      <item itemvalue="Application.HorseMatrix" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HorseMatrix" />
+        <item itemvalue="Application.Tribonacci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724782fb-f3d0-4552-8e69-3b0a7bf6e118" name="Default" comment="" />
+      <created>1523543489977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523543489977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.10208817" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16081081" />
+      <window_info id="Learn" order="2" weight="0.32972974" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907193" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32946634" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/arrays/HorseMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/HorsePathRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="59" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/LargestAreaInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/Passwords.java" />
+    <entry file="file://$PROJECT_DIR$/src/loops/Tribonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/Passwords.java" />
+    <entry file="file://$PROJECT_DIR$/src/arrays/LargestAreaInMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="9" selection-start-line="21" selection-start-column="7" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/HorsePathRecursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="66" column="59" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/HorseMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamAPI/MaxSumOfKElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamAPI/ТайноСъобщение.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamAPI/NumbersFrom1ToN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamAPI/AppearanceCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/streamAPI/AllocateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/GirlsGoneWild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
